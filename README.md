@@ -1,34 +1,44 @@
-<h1 align="center">
-📄<br>AYBERK ARSLAN
-</h1>
-
-## 📚 Full Stack Developer-Embedded Systems-Graphic Designer
-
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Mas você pode me ajudar comprando o ebook "eFront" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. O ebook é completo e cobre tecnologias mais requisitados do mercado como HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress, Next.js e muito mais. O valor é R$25,00 e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
-
-- eFront - Estudando frontend do zero. [Clique aqui para comprar](https://iuricode.com/efront)
-
----
-
-## Tipos Readme
-
-[![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/iuricode/readme-template/tree/main/profile)
-[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/readme-template/blob/main/repository)
 
 
-## Recursos para o Readme
+          
+<h1 align="center">Hi 👋, I'm Ayberk ARSLAN</h1>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<h3 align="center"> I am a Full Stack Developer in Turkey 🇹🇷 </h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
-[![Card](https://img.shields.io/badge/estatísticas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFB800)](https://github.com/iuricode/readme-template/blob/main/cards-stats/cards-stats.md)
-[![Badge](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=006DEC)](https://github.com/iuricode/readme-template/blob/main/badges/badges.md)
+<p align="left"> <a href="https://twitter.com/ayberkkarslan" target="blank"><img src="https://img.shields.io/twitter/follow/ayberkkarslan?logo=twitter&style=for-the-badge" alt="Ayberk ARSLAN Twitter" /></a> </p>
 
-<div align="center">
-  <br/>
-  <br/>
-  <br/>
-    <div>
-      <h1>Open Source</h1>
-      <sub>Copyright © 2023 - <a href="https://github.com/iuricode">iuricode</sub></a>
-    </div>
-    <br/>
-    💖
-</div>
+
+- 💬 Ask me about **JavaScript, C++ , PHP and Web Design**
+
+- 📫 Reach me at **ayberkarslan@yaani.com**
+
+- 👨‍💻 All of my projects are available at [github.com/ayberkarslan](https://github.com/ayberkarslan)
+
+- ⚡ Interesting in **Voice Assistants**
+
+🌟 I'm currently working on a voice assistant called **ABIS** 🌟
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ayberkkarslan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayberkkarslan" height="30" width="40" /></a>
+<a href="https://linkedin.com/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
+<a href="https://instagram.com/ayberkkarslann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ayberkkarslann" height="30" width="40" /></a>
+</p>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://blender.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>
+      <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://cplusplus.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="gatsby" width="40" height="40"/> </a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="ps" width="40" height="40"/> </a> 
+    </p>
+
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
