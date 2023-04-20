@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ayberk ARSLAN</h1>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h3 align="center"> I am a Full Stack Developer in Turkey 🇹🇷 </h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=ayberkkarslan alt=ayberkkarslan/> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ayberkkarslan" target="blank"><img src="https://img.shields.io/twitter/follow/ayberkkarslan?logo=twitter&style=for-the-badge" alt="Ayberk ARSLAN Twitter" /></a> </p>
 
