@@ -17,7 +17,7 @@
 
 - ⚡ Interesting in **Voice Assistants**
 
-🌟 I'm currently working on a voice assistant called **ABIS** 🌟
+🌟 I'm currently working on a voice assistant called **NORMA** 🌟
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
