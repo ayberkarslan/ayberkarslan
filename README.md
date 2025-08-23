@@ -1,9 +1,9 @@
 
 
           
-<h1 align="center">Hi 👋, I'm Ayberk ARSLAN</h1>
+<h1 align="center">Hi, I'm Ayberk ARSLAN</h1>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h3 align="center"> I am a Full Stack Developer in Turkey 🇹🇷 </h3>
+<h3 align="center"> I am an embedded systems developer in Turkey 🇹🇷 </h3>
 <h3 align="center"> Currently working on STAX Tech </h3>
 
 
