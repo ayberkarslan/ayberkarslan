@@ -23,7 +23,7 @@
 <p align="left">
             <a href="https://cplusplus.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="gatsby" width="40" height="40"/> </a>
           <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="react" width="40" height="40"/> </a>
-         <a href="https://arduino.cc" target="_blank"> <img src="https://images.seeklogo.com/logo-png/27/1/arduino-logo-png_seeklogo-272832.png" alt="Arduino and ESP" width="40" height="40"/></a>
+        <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://blender.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>
       <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>
