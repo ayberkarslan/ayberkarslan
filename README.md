@@ -7,7 +7,7 @@
 <h3 align="center"> Currently working on STAX Tech </h3>
 
 
-- 💬 Ask me about **JavaScript, C++ , PHP and Web Design,IoT,Embedded Systems**
+- 💬 Ask me about **C, C++, IoT, Embedded Systems, Linux**
 
 - 📫 Reach me at **ayberkarslan@yaani.com**
 
@@ -16,11 +16,6 @@
 - ⚡ Interesting in **Virtual Voice Assistants**
 
 🌟 I'm currently working on a voice assistant called **NORMA** 🌟
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
-</p>
 
 
 
