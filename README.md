@@ -7,7 +7,7 @@
 <h3 align="center"> Currently working on STAX Tech </h3>
 
 
-- 💬 Ask me about **C, C++, IoT, Embedded Systems, Linux**
+- 💬 Ask me about **C, C++, IoT, Embedded Systems,ESP,Arduino,Linux**
 
 - 📫 Reach me at **ayberkarslan@yaani.com**
 
