@@ -14,9 +14,9 @@
 - 👨‍💻 All of my projects are available at [ayberkarslan.netlify.app](https://ayberkarslan.netlify.app)
 
 
-- ⚡ Interesting in **Virtual Voice Assistants**
+- ⚡ Interesting in **Virtual Voice Assistants supported by AI**
 
-🌟 I'm currently working on a voice assistant called **NORMA** 🌟
+🌟 I'm currently working on a virtual voice assistant called **NORMA** 🌟
 
 
 
