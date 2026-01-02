@@ -16,7 +16,8 @@
 
 - ⚡ Interesting in **Virtual Voice Assistants supported by AI**
 
-🌟 I'm currently working on a virtual voice assistant called **NORMA** 🌟
+🌟 I'm currently working on a file sharing project called **STAXFile** 🌟
+You can see the fully working demo site: <a href="https://staxfile.onrender.com/" target="_blank">STAXFile</a>
 
 
 
