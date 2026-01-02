@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **ayberkarslan@yaani.com**
 
-- 👨‍💻 All of my projects are available at [ayberkarslan.netlify.app](https://ayberkarslan.netlify.app)
+<h3 align="left">- 👨‍💻 All of my projects are available at [ayberkarslan.netlify.app](https://ayberkarslan.netlify.app)</h3>
 
 
 - ⚡ Interesting in **Virtual Voice Assistants supported by AI**
