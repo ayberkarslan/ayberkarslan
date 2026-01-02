@@ -7,7 +7,7 @@
 <h3 align="center"> Currently working on STAX Tech </h3>
 
 
-- 💬 Ask me about **C, C++, IoT, Embedded Systems,ESP,Arduino,Linux**
+- 💬 Ask me about **C, C++, IoT, Embedded Systems,ESP32,ESP8266,Arduino,Linux,Blender 3D, 3D Modelling, Animation**
 
 - 📫 Reach me at **ayberkarslan@yaani.com**
 
@@ -17,6 +17,7 @@
 - ⚡ Interesting in **Virtual Voice Assistants supported by AI**
 
 🌟 I'm currently working on a file sharing project called **STAXFile** 🌟
+
 You can see the fully working demo site: <a href="https://staxfile.onrender.com/" target="_blank">STAXFile</a>
 
 
