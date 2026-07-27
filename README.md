@@ -52,7 +52,7 @@ system-level tools, networking, and server-side components when needed.
 A web-based file sharing system designed and implemented end-to-end.
 
 Live demo:  
-https://staxfile.onrender.com/
+https://staxfile.ayberkarslan.com/
 
 ---
 
@@ -90,7 +90,7 @@ If I don’t understand what’s happening under the hood, I don’t consider it
 ## Contact
 
 - Mail: **ayberkarslann0@gmail.com**
-- Website: https://ayberkarslan.netlify.app
+- Website: https://ayberkarslan.com
 
 ---
 
